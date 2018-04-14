@@ -21,6 +21,7 @@ function iLoveTheBeatles(n) {
   let love = []
   return love
 }
+}
 
 do {
   while (n < 15) {
