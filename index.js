@@ -24,6 +24,7 @@ function iLoveTheBeatles(n) {
 do {
    love.push("I love the Beatles!" )
   n++
+  console.log("Incrementing n", n)
   } while (n < 15) 
   
 return love
