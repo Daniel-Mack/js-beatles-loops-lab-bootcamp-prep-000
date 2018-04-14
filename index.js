@@ -30,9 +30,3 @@ do {
 return love
 }
 
-
-function iLoveTheBeatles(n) {
-  let love = []
-  return love
-
-}
