@@ -25,4 +25,3 @@ function iLoveTheBeatles(n) {
   do {
     love.push(array[i])
   }
-
