@@ -21,12 +21,10 @@ function iLoveTheBeatles(n) {
   let love = []
   return love
 
-}
 
 do {
-  
+   love.push(n)
   
   } while (n < 15) 
-    love.push(n)
-  }
 return love
+}
