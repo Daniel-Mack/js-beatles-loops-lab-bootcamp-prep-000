@@ -22,12 +22,7 @@ function iLoveTheBeatles(n) {
 }
 
 do {
-  
-}
   let love = []
   while (n < 15) {
-    love.push(array[i])
-  }
-  do {
     love.push(array[i])
   }
