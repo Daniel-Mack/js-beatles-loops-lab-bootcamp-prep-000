@@ -19,7 +19,6 @@ while (i < array.length) {
 
 function iLoveTheBeatles(n) {
   let love = []
-  return love
 
 
 do {
