@@ -20,10 +20,9 @@ while (i < array.length) {
 function iLoveTheBeatles(n) {
   let love = []
   return love
-}
+
 }
 
 do {
   while (n < 15) {
     love.push(n)
-  }
