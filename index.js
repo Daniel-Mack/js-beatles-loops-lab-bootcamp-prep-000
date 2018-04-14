@@ -18,6 +18,7 @@ while (i < array.length) {
 
 
 function iLoveTheBeatles(n) {
+  return love
   let love = []
   while (n < 15) {
     love.push(array[i])
