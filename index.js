@@ -18,11 +18,11 @@ while (i < array.length) {
 
 
 function iLoveTheBeatles(n) {
+  let love = []
   return love
 }
 
 do {
-  let love = []
   while (n < 15) {
-    love.push(array[i])
+    love.push(n)
   }
