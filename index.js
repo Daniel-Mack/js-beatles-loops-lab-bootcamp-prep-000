@@ -23,5 +23,7 @@ function iLoveTheBeatles(n) {
   while (i < n.length) {
     love.push(array[i])
   }
-  do 
+  do {
+    love.push(array[i])
+  }
 
